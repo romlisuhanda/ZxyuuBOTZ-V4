@@ -12,7 +12,7 @@
   }
 
   // Edit Sesuai Kemauanmu
-  global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
+  global.autoReadGc = false // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
   global.autoReadAll = true // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
@@ -67,7 +67,7 @@
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
-  global.thumb = fs.readFileSync('./media/hinata.jpg')
+  global.thumb = fs.readFileSync('./media/IMG-20220607-WA0123.jpg')
     
   // Ini Gausah Diubah
   let file = require.resolve(__filename)
