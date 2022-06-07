@@ -24,7 +24,7 @@
 
   // Other
   global.ownername = 'Romli Suhanda' // Ganti Jadi Namamu
-  global.owner = ['6281322667077','6281322667077','6281215710461'] // Kalo Mau Lebih Tambahin Aja
+  global.owner = ['6281322667077','6281322667077','6281322667077'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6281322667077' // Owner Utama Istilahnya
   global.botname = 'ZxyuuBOTZ' // Ganti Jadi Nama Botmu
   global.packname = '2022' // Sticker Weem
