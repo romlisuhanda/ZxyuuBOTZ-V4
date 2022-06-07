@@ -12,7 +12,7 @@
   }
 
   // Edit Sesuai Kemauanmu
-  global.autoReadGc = false // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
+  global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
   global.autoReadAll = true // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
@@ -23,7 +23,7 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Romli Suhanda' // Ganti Jadi Namamu
+  global.ownername = 'ZxyuuROMZ' // Ganti Jadi Namamu
   global.owner = ['6281322667077','6281322667077','6281322667077'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6281322667077' // Owner Utama Istilahnya
   global.botname = 'ZxyuuBOTZ' // Ganti Jadi Nama Botmu
